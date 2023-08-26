@@ -1,2 +1,2 @@
 # PiHole-Blocklist
-My personal pihole bloclist
+My personal pihole blocklist
