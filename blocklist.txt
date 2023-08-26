@@ -2,7 +2,7 @@
 
 edge-mqtt.facebook.com
 graph.oculus.com
-*.xboxlive.com
+xboxlive.com
 self.events.data.microsoft.com
 tracing.platform-infrastructure.zalan.do
 tracing.stups.zalan.do
