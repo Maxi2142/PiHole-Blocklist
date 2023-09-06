@@ -1,5 +1,6 @@
 # Title: Maxis Blocklist for PiHole
 
+#Stuff I found
 edge-mqtt.facebook.com
 graph.oculus.com
 xboxlive.com
@@ -11,7 +12,6 @@ www.voiceandvideosales.com
 a.medfoodsafety.com
 tour.camsoda.com
 api-in-app-marketing-auth.i.tplinknbu.com
-# login.live.com
 click-trk.com
 star.c10r.facebook.com
 star.fallback.c10r.facebook.com
@@ -20,3 +20,52 @@ stats.administrator.technology
 megadating2299.com
 m2-weaz.tuyaeu.com
 r.bing.com
+
+# Samsung
+device-metrics-us.amazon.com
+d1oxlq5h9kq8q5.cloudfront.net
+d179kwmlpc4o47.cloudfront.net
+www.samsungrm.net
+www.samsungotn.net
+game.internetat.tv
+ns11.whois.co.kr
+infolink.pavv.co.k
+rwww.samsungotn.net
+premium-videos.telly.com
+
+# Useless connections from Smart-TV
+get.geo.opera.com
+xml.opera.com
+itv.ard.de
+cert-test.sandbox.google.com
+googleads.g.doubleclick.net
+hbbtv.redbutton.de
+hbbtv.zdf.de
+drscdn.500px.org
+tv-static.scdn.co
+apicache.vudu.com
+tv.deezer.com
+cdns-content.dzcdn.net
+nbc-jite.nbcuni.com
+
+# Fire TV
+arcus-uswest.amazon.com
+avs-alexa-19-eu.amazon.com
+dcape-na.amazon.com
+aviary.amazon.de
+api.eu.amazonalexa.com
+mas-ext-eu.amazon.com
+mads-eu.amazon.com
+dp-gw-na.amazon.com
+ftv-smtv.ntp-fireos.com
+aviary.amazon.com
+o2r2hew432.execute-api.us-east-1.amazonaws.com
+andr-25-aftkmst12-641002610.api.amazonvideo.com
+prod.amazoncrl.com
+arcus-uswest.amazon.com
+
+#Xioami Mi TV
+mitv.tracking.intl.miui.com
+tracking.intl.miui.com
+data.mistat.intl.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
