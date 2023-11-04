@@ -1,6 +1,6 @@
 # Title: Maxis Blocklist for PiHole
 
-#Stuff I found
+#Random Stuff
 edge-mqtt.facebook.com
 graph.oculus.com
 xboxlive.com
@@ -20,6 +20,7 @@ stats.administrator.technology
 megadating2299.com
 m2-weaz.tuyaeu.com
 r.bing.com
+dgw.c10r.facebook.com
 
 # Samsung
 device-metrics-us.amazon.com
