@@ -64,6 +64,7 @@ o2r2hew432.execute-api.us-east-1.amazonaws.com
 andr-25-aftkmst12-641002610.api.amazonvideo.com
 prod.amazoncrl.com
 arcus-uswest.amazon.com
+web.diagnostic.networking.aws.dev
 
 #Xioami Mi TV
 mitv.tracking.intl.miui.com
